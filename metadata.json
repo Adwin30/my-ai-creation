@@ -1,0 +1,6 @@
+{
+  "name": "Itachi AI",
+  "description": "Personal AI companion with encrypted local storage, customizable shinobi themes, and multi-model ChatGPT intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
